@@ -1,0 +1,43 @@
+
+
+
+.brand-logo{
+    color: rgb(247, 247, 247);
+    font-size: 30px;
+}
+body{
+    background-color: white;
+}
+nav{
+    background-color: rgb(0, 0, 0);
+}
+.slider .btn {
+    margin-top: 50px;
+}
+#about {
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(255, 255, 255, 0.3), 
+        rgba(255, 255, 255, 0.3)
+    ), url();
+    background-position: left 15px center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-blend-mode: lighten;
+}
+
+.section-intro {
+    margin-top: 5em;
+}
+
+section.black{
+    padding-top: 25px;
+}
+.parallax-container .parallax img {
+    max-width: 100%;
+}
+.parallax-container {
+    height: 300px; 
+}
+
+
